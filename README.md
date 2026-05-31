@@ -1,4 +1,4 @@
-# Android Multilingual Dashboard
+# android login dashboard app
 
 A simple Android application developed as part of an Android Programming course project.
 
@@ -23,11 +23,11 @@ A simple Android application developed as part of an Android Programming course 
 
 ### Login Screen
 
-![Login Screen](images/login.png)
+![Login Screen](images/login.jpg)
 
 ### Dashboard Screen
 
-![Dashboard Screen](images/dashboard.png)
+![Dashboard Screen](images/dashboard.jpg)
 
 ## Project Structure
 
@@ -46,7 +46,7 @@ app/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/android-multilingual-dashboard.git
+git clone https://github.com/your-username/android-login-dashboard-app.git
 ```
 
 2. Open the project in Android Studio
