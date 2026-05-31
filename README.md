@@ -68,6 +68,3 @@ git clone https://github.com/your-username/android-login-dashboard-app.git
 * Localization (EN/FA)
 * Interactive UI components
 
-## Author
-
-Android Programming Course Project
