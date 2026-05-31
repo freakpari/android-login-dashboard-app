@@ -20,14 +20,18 @@ A simple Android application developed as part of an Android Programming course 
 * Material Design 3
 
 ## Screenshots
-
-### Login Screen
-
-![Login Screen](images/login.jpg)
-
-### Dashboard Screen
-
-![Dashboard Screen](images/dashboard.jpg)
+<table>
+  <tr>
+    <td align="center" style="padding:10px">
+      <b>Login Screen</b><br>
+      <img src="images/login.jpg" width="170"/>
+    </td>
+    <td align="center" style="padding:10px">
+      <b>Dashboard Screen</b><br>
+      <img src="images/dashboard.jpg" width="170"/>
+    </td>
+  </tr>
+</table>
 
 ## Project Structure
 
